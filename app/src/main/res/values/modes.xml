@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="modes">
+        <item>Choisissez votre mode de jeu</item>
+        <item>Drink and dice</item>
+    </array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="GameModes">
+        <item>Chiche</item>
+        <item>Action</item>
+        <item>Vérité</item>
+    </array>
+    <array name="Chiche">
+        <item>Sort dehors pendant 5 min</item>
+        <item>Fais 3 fois le tour de toi même</item>
+    </array>
+    <array name="Action">
+        <item>Fais 10 pompes</item>
+        <item>Echange de place avec la personne en face</item>
+    </array>
+    <array name="Verite">
+        <item>Quel est ta plus grande fierté ?</item>
+        <item>As tu déjà fantasmé sur quelqu\'un ici ?</item>
+    </array>
+</resources>

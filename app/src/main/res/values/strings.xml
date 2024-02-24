@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppFannie</string>
+    <string name="les_jeux_de_fannie">Les jeux de Fannie</string>
+    <string name="choisissez_le_mode_auquel_vous_voulez_jouez">Choisissez le mode auquel vous voulez jouez :</string>
 </resources>
